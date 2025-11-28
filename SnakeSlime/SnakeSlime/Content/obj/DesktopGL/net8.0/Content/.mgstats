@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/joefr/Documents/GitHub/SnakeSlime/SnakeSlime/SnakeSlime/Content/images/atlas-definition.xml","C:\Users\joefr\Documents\GitHub\SnakeSlime\SnakeSlime\SnakeSlime\Content\bin\DesktopGL\Content\images/atlas-definition.xml","CopyItem","File",260,260,0.0113518
+"C:/Users/joefr/Documents/GitHub/SnakeSlime/SnakeSlime/SnakeSlime/Content/images/atlas.png","C:/Users/joefr/Documents/GitHub/SnakeSlime/SnakeSlime/SnakeSlime/Content/bin/DesktopGL/Content/images/atlas.xnb","TextureProcessor","Texture2DContent",590,16469,0.1263625
+"C:/Users/joefr/Documents/GitHub/SnakeSlime/SnakeSlime/SnakeSlime/Content/images/logo.png","C:/Users/joefr/Documents/GitHub/SnakeSlime/SnakeSlime/SnakeSlime/Content/bin/DesktopGL/Content/images/logo.xnb","TextureProcessor","Texture2DContent",16734,311381,0.1712341

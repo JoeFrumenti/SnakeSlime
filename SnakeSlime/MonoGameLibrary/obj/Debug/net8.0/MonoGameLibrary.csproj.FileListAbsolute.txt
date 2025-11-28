@@ -1,0 +1,13 @@
+C:\Users\joefr\Documents\GitHub\SnakeSlime\SnakeSlime\MonoGameLibrary\bin\Debug\net8.0\MonoGameLibrary.deps.json
+C:\Users\joefr\Documents\GitHub\SnakeSlime\SnakeSlime\MonoGameLibrary\bin\Debug\net8.0\MonoGameLibrary.dll
+C:\Users\joefr\Documents\GitHub\SnakeSlime\SnakeSlime\MonoGameLibrary\bin\Debug\net8.0\MonoGameLibrary.pdb
+C:\Users\joefr\Documents\GitHub\SnakeSlime\SnakeSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.csproj.AssemblyReference.cache
+C:\Users\joefr\Documents\GitHub\SnakeSlime\SnakeSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joefr\Documents\GitHub\SnakeSlime\SnakeSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.AssemblyInfoInputs.cache
+C:\Users\joefr\Documents\GitHub\SnakeSlime\SnakeSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.AssemblyInfo.cs
+C:\Users\joefr\Documents\GitHub\SnakeSlime\SnakeSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\joefr\Documents\GitHub\SnakeSlime\SnakeSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.sourcelink.json
+C:\Users\joefr\Documents\GitHub\SnakeSlime\SnakeSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.dll
+C:\Users\joefr\Documents\GitHub\SnakeSlime\SnakeSlime\MonoGameLibrary\obj\Debug\net8.0\refint\MonoGameLibrary.dll
+C:\Users\joefr\Documents\GitHub\SnakeSlime\SnakeSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.pdb
+C:\Users\joefr\Documents\GitHub\SnakeSlime\SnakeSlime\MonoGameLibrary\obj\Debug\net8.0\ref\MonoGameLibrary.dll
