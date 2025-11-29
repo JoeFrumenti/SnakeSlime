@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F8827ED-BE0F-A7B2-B4E3-1EDEF1D5E79C}|SnakeSlime\\SnakeSlime.csproj|c:\\users\\joefr\\documents\\github\\snakeslime\\snakeslime\\snakeslime\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8827ED-BE0F-A7B2-B4E3-1EDEF1D5E79C}|SnakeSlime\\SnakeSlime.csproj|solutionrelative:snakeslime\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{136C3C93-6D14-C06D-3DBE-468E75475147}|MonoGameLibrary\\MonoGameLibrary.csproj|c:\\users\\joefr\\documents\\github\\snakeslime\\snakeslime\\monogamelibrary\\graphics\\textureatlas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{136C3C93-6D14-C06D-3DBE-468E75475147}|MonoGameLibrary\\MonoGameLibrary.csproj|solutionrelative:monogamelibrary\\graphics\\textureatlas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136C3C93-6D14-C06D-3DBE-468E75475147}|MonoGameLibrary\\MonoGameLibrary.csproj|c:\\users\\joefr\\documents\\github\\snakeslime\\snakeslime\\monogamelibrary\\graphics\\animatedsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136C3C93-6D14-C06D-3DBE-468E75475147}|MonoGameLibrary\\MonoGameLibrary.csproj|solutionrelative:monogamelibrary\\graphics\\animatedsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{136C3C93-6D14-C06D-3DBE-468E75475147}|MonoGameLibrary\\MonoGameLibrary.csproj|c:\\users\\joefr\\documents\\github\\snakeslime\\snakeslime\\monogamelibrary\\graphics\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{136C3C93-6D14-C06D-3DBE-468E75475147}|MonoGameLibrary\\MonoGameLibrary.csproj|solutionrelative:monogamelibrary\\graphics\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F8827ED-BE0F-A7B2-B4E3-1EDEF1D5E79C}|SnakeSlime\\SnakeSlime.csproj|c:\\users\\joefr\\documents\\github\\snakeslime\\snakeslime\\snakeslime\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F8827ED-BE0F-A7B2-B4E3-1EDEF1D5E79C}|SnakeSlime\\SnakeSlime.csproj|solutionrelative:snakeslime\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F8827ED-BE0F-A7B2-B4E3-1EDEF1D5E79C}|SnakeSlime\\SnakeSlime.csproj|c:\\users\\joefr\\documents\\github\\snakeslime\\snakeslime\\snakeslime\\content\\images\\atlas-definition.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8F8827ED-BE0F-A7B2-B4E3-1EDEF1D5E79C}|SnakeSlime\\SnakeSlime.csproj|solutionrelative:snakeslime\\content\\images\\atlas-definition.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{136C3C93-6D14-C06D-3DBE-468E75475147}|MonoGameLibrary\\MonoGameLibrary.csproj|c:\\users\\joefr\\documents\\github\\snakeslime\\snakeslime\\monogamelibrary\\graphics\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{136C3C93-6D14-C06D-3DBE-468E75475147}|MonoGameLibrary\\MonoGameLibrary.csproj|solutionrelative:monogamelibrary\\graphics\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F8827ED-BE0F-A7B2-B4E3-1EDEF1D5E79C}|SnakeSlime\\SnakeSlime.csproj|c:\\users\\joefr\\documents\\github\\snakeslime\\snakeslime\\snakeslime\\content\\images\\atlas-definition.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8F8827ED-BE0F-A7B2-B4E3-1EDEF1D5E79C}|SnakeSlime\\SnakeSlime.csproj|solutionrelative:snakeslime\\content\\images\\atlas-definition.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{136C3C93-6D14-C06D-3DBE-468E75475147}|MonoGameLibrary\\MonoGameLibrary.csproj|c:\\users\\joefr\\documents\\github\\snakeslime\\snakeslime\\monogamelibrary\\graphics\\textureregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,45 +54,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "AnimatedSprite.cs",
+              "DocumentMoniker": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\Graphics\\AnimatedSprite.cs",
+              "RelativeDocumentMoniker": "MonoGameLibrary\\Graphics\\AnimatedSprite.cs",
+              "ToolTip": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\Graphics\\AnimatedSprite.cs",
+              "RelativeToolTip": "MonoGameLibrary\\Graphics\\AnimatedSprite.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:11:29.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Animation.cs",
               "DocumentMoniker": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\Graphics\\Animation.cs",
               "RelativeDocumentMoniker": "MonoGameLibrary\\Graphics\\Animation.cs",
               "ToolTip": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\Graphics\\Animation.cs",
               "RelativeToolTip": "MonoGameLibrary\\Graphics\\Animation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T15:54:14.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Game1.cs",
-              "DocumentMoniker": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\SnakeSlime\\Game1.cs",
-              "RelativeDocumentMoniker": "SnakeSlime\\Game1.cs",
-              "ToolTip": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\SnakeSlime\\Game1.cs",
-              "RelativeToolTip": "SnakeSlime\\Game1.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAIwEMAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T21:06:45.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TextureRegion.cs",
-              "DocumentMoniker": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\Graphics\\TextureRegion.cs",
-              "RelativeDocumentMoniker": "MonoGameLibrary\\Graphics\\TextureRegion.cs",
-              "ToolTip": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\Graphics\\TextureRegion.cs",
-              "RelativeToolTip": "MonoGameLibrary\\Graphics\\TextureRegion.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAGgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T20:37:49.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MonoGameLibrary.csproj",
               "DocumentMoniker": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\MonoGameLibrary.csproj",
               "RelativeDocumentMoniker": "MonoGameLibrary\\MonoGameLibrary.csproj",
@@ -96,11 +88,12 @@
               "RelativeToolTip": "MonoGameLibrary\\MonoGameLibrary.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-27T20:37:24.489Z"
+              "WhenOpened": "2025-11-27T20:37:24.489Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Core.cs",
               "DocumentMoniker": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\Core.cs",
               "RelativeDocumentMoniker": "MonoGameLibrary\\Core.cs",
@@ -112,29 +105,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TextureAtlas.cs",
               "DocumentMoniker": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\Graphics\\TextureAtlas.cs",
               "RelativeDocumentMoniker": "MonoGameLibrary\\Graphics\\TextureAtlas.cs",
               "ToolTip": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\Graphics\\TextureAtlas.cs",
               "RelativeToolTip": "MonoGameLibrary\\Graphics\\TextureAtlas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAwOQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T20:46:28.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Sprite.cs",
-              "DocumentMoniker": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\Graphics\\Sprite.cs",
-              "RelativeDocumentMoniker": "MonoGameLibrary\\Graphics\\Sprite.cs",
-              "ToolTip": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\Graphics\\Sprite.cs",
-              "RelativeToolTip": "MonoGameLibrary\\Graphics\\Sprite.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\SnakeSlime\\Game1.cs",
+              "RelativeDocumentMoniker": "SnakeSlime\\Game1.cs",
+              "ToolTip": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\SnakeSlime\\Game1.cs",
+              "RelativeToolTip": "SnakeSlime\\Game1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T15:33:43.269Z",
+              "WhenOpened": "2025-11-27T21:06:45.188Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextureRegion.cs",
+              "DocumentMoniker": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\Graphics\\TextureRegion.cs",
+              "RelativeDocumentMoniker": "MonoGameLibrary\\Graphics\\TextureRegion.cs",
+              "ToolTip": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\Graphics\\TextureRegion.cs",
+              "RelativeToolTip": "MonoGameLibrary\\Graphics\\TextureRegion.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T20:37:49.582Z"
             },
             {
               "$type": "Document",
@@ -144,13 +149,26 @@
               "RelativeDocumentMoniker": "SnakeSlime\\Content\\images\\atlas-definition.xml",
               "ToolTip": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\SnakeSlime\\Content\\images\\atlas-definition.xml",
               "RelativeToolTip": "SnakeSlime\\Content\\images\\atlas-definition.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-11-27T21:05:12.386Z"
+              "WhenOpened": "2025-11-27T21:05:12.386Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\Graphics\\Sprite.cs",
+              "RelativeDocumentMoniker": "MonoGameLibrary\\Graphics\\Sprite.cs",
+              "ToolTip": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\MonoGameLibrary\\Graphics\\Sprite.cs",
+              "RelativeToolTip": "MonoGameLibrary\\Graphics\\Sprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:33:43.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "SnakeSlime.csproj",
               "DocumentMoniker": "C:\\Users\\joefr\\Documents\\GitHub\\SnakeSlime\\SnakeSlime\\SnakeSlime\\SnakeSlime.csproj",
               "RelativeDocumentMoniker": "SnakeSlime\\SnakeSlime.csproj",
@@ -158,7 +176,8 @@
               "RelativeToolTip": "SnakeSlime\\SnakeSlime.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-27T15:42:02.893Z"
+              "WhenOpened": "2025-11-27T15:42:02.893Z",
+              "EditorCaption": ""
             }
           ]
         }

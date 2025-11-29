@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SnakeSlime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06e4143998ea160ef4f4d9309ce102bd2a6a62e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+616184ca0d73232f582d216a7ce187ff4029a016")]
 [assembly: System.Reflection.AssemblyProductAttribute("SnakeSlime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SnakeSlime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
